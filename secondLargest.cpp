@@ -27,3 +27,4 @@ int main(){
     int ans = secondLargestElement(arr);
     cout<<"The second largest element in the array :"<<ans<<endl;
 }
+/*Sort the array and second largest element is present at the arr[n-2]*/
