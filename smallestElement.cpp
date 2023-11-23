@@ -23,3 +23,4 @@ int main(){
     int ans = smallestElement(arr);
     cout<<"The smallest element in the array is : "<<ans<<endl;
 }
+/*Sort the array and first element is the smallest element*/
