@@ -26,3 +26,6 @@ int main(){
     int ans = secondSmallestElement(arr,n);
     cout<<"The smallest Element of The array is: "<<ans << endl;
 }
+
+/*We can also find the second smallest element in the array like :- sort the array and after sorting second smallest 
+element is present at the 1st index of an array[if array is zero base indexing]*/
